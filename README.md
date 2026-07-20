@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1898-maximum-number-of-removable-characters](https://github.com/praveen-soni06/LeetCode-Python/tree/master/1898-maximum-number-of-removable-characters) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/praveen-soni06/LeetCode-Python/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Binary Search
 |  |
 | ------- |
@@ -28,4 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0035-search-insert-position) |
 | [1898-maximum-number-of-removable-characters](https://github.com/praveen-soni06/LeetCode-Python/tree/master/1898-maximum-number-of-removable-characters) |
+## Stack
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/praveen-soni06/LeetCode-Python/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Simulation
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/praveen-soni06/LeetCode-Python/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
