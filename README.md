@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1898-maximum-number-of-removable-characters](https://github.com/praveen-soni06/LeetCode-Python/tree/master/1898-maximum-number-of-removable-characters) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/praveen-soni06/LeetCode-Python/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Binary Search
@@ -37,4 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/praveen-soni06/LeetCode-Python/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Hash Table
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
