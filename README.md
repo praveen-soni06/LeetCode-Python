@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0875-koko-eating-bananas) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0875-koko-eating-bananas) |
 | [1898-maximum-number-of-removable-characters](https://github.com/praveen-soni06/LeetCode-Python/tree/master/1898-maximum-number-of-removable-characters) |
@@ -56,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0242-valid-anagram) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
