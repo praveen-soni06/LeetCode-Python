@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0242-valid-anagram](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0242-valid-anagram) |
 | [1898-maximum-number-of-removable-characters](https://github.com/praveen-soni06/LeetCode-Python/tree/master/1898-maximum-number-of-removable-characters) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/praveen-soni06/LeetCode-Python/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Binary Search
@@ -44,8 +45,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0242-valid-anagram](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0242-valid-anagram) |
 ## Backtracking
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
