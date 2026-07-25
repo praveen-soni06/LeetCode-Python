@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0875-koko-eating-bananas) |
 | [1898-maximum-number-of-removable-characters](https://github.com/praveen-soni06/LeetCode-Python/tree/master/1898-maximum-number-of-removable-characters) |
@@ -69,5 +70,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
