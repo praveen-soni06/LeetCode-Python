@@ -72,4 +72,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0191-number-of-1-bits) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
