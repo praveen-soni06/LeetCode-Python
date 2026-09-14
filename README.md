@@ -25,12 +25,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0658-find-k-closest-elements](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0658-find-k-closest-elements) |
 | [1898-maximum-number-of-removable-characters](https://github.com/praveen-soni06/LeetCode-Python/tree/master/1898-maximum-number-of-removable-characters) |
 ## String
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0242-valid-anagram](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0242-valid-anagram) |
 | [0981-time-based-key-value-store](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0981-time-based-key-value-store) |
 | [1898-maximum-number-of-removable-characters](https://github.com/praveen-soni06/LeetCode-Python/tree/master/1898-maximum-number-of-removable-characters) |
@@ -120,4 +122,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0410-split-array-largest-sum) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
