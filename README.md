@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0242-valid-anagram](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0242-valid-anagram) |
 | [0459-repeated-substring-pattern](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0686-repeated-string-match) |
 | [0981-time-based-key-value-store](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0981-time-based-key-value-store) |
 | [1898-maximum-number-of-removable-characters](https://github.com/praveen-soni06/LeetCode-Python/tree/master/1898-maximum-number-of-removable-characters) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/praveen-soni06/LeetCode-Python/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -128,18 +129,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0686-repeated-string-match) |
 ## Z Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0686-repeated-string-match) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0686-repeated-string-match) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0686-repeated-string-match](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
