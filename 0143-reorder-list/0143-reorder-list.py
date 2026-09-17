@@ -13,6 +13,7 @@ class Solution:
             slow = slow.next
             fast = fast.next.next
 
+        # reversing the second part of linked list
         second = slow.next
         prev = slow.next = None
         while second:
@@ -21,6 +22,7 @@ class Solution:
             prev = second
             second = temp
 
+        # reordering the list
         first,second = head, prev
         while second:
             temp1, temp2 = first.next, second.next
