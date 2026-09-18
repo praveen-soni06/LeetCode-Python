@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0171-excel-sheet-column-number](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0242-valid-anagram) |
 | [0459-repeated-substring-pattern](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0686-repeated-string-match) |
@@ -167,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0005-longest-palindromic-substring) |
+## Math
+|  |
+| ------- |
+| [0171-excel-sheet-column-number](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0171-excel-sheet-column-number) |
 <!---LeetCode Topics End-->
