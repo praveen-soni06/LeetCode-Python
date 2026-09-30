@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0086-partition-list](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0234-palindrome-linked-list) |
 | [0658-find-k-closest-elements](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0658-find-k-closest-elements) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0024-swap-nodes-in-pairs) |
+| [0086-partition-list](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0092-reverse-linked-list-ii) |
 | [0143-reorder-list](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0203-remove-linked-list-elements) |
