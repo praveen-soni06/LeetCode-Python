@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0074-search-a-2d-matrix) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0191-number-of-1-bits](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0191-number-of-1-bits) |
 ## Bit Manipulation
 |  |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0100-same-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0226-invert-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/praveen-soni06/LeetCode-Python/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0100-same-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0226-invert-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/praveen-soni06/LeetCode-Python/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -214,4 +218,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
