@@ -9,15 +9,14 @@ class Solution:
             return head
         nums = []
 
-        while head:
-            nums.append(head.val)
-            head = head.next
+        curr = head
+        while curr:
+            nums.append(curr.val)
+            curr = curr.next
 
         nums.sort()
-        dummy = ListNode()
-        tail = dummy
-
+        curr = head
         for i in nums:
-            tail.next = ListNode(i)
-            tail = tail.next
-        return dummy.next
+            curr.val = i
+            curr = curr.next
+        return head
