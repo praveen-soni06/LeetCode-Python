@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0191-number-of-1-bits](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0191-number-of-1-bits) |
 ## Bit Manipulation
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0023-merge-k-sorted-lists) |
 | [0658-find-k-closest-elements](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0658-find-k-closest-elements) |
 ## Greedy
 |  |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0024-swap-nodes-in-pairs) |
 | [0086-partition-list](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0092-reverse-linked-list-ii) |
@@ -219,4 +222,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
