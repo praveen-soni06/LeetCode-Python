@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0086-partition-list](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0234-palindrome-linked-list) |
 | [0658-find-k-closest-elements](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0658-find-k-closest-elements) |
 | [1898-maximum-number-of-removable-characters](https://github.com/praveen-soni06/LeetCode-Python/tree/master/1898-maximum-number-of-removable-characters) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0242-valid-anagram) |
 | [0658-find-k-closest-elements](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0658-find-k-closest-elements) |
 | [1710-maximum-units-on-a-truck](https://github.com/praveen-soni06/LeetCode-Python/tree/master/1710-maximum-units-on-a-truck) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0191-number-of-1-bits) |
 ## Bit Manipulation
 |  |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0092-reverse-linked-list-ii) |
 | [0143-reorder-list](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0234-palindrome-linked-list) |
@@ -226,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0148-sort-list) |
 ## Tournament Sort
 |  |
 | ------- |
