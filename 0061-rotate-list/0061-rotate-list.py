@@ -7,13 +7,13 @@ class Solution:
     def rotateRight(self, head: ListNode | None, k: int) -> ListNode | None:
         if not head or not head.next or k == 0:
             return head
-            
+
         temp = head
         n = 1
         while temp.next:
             temp = temp.next
             n += 1
-        temp.next = head
+        temp.next = head   # make circular linkedlist
 
         # handel k
         k = k % n
@@ -26,7 +26,7 @@ class Solution:
             new_temp = new_temp.next
         
         new_head = new_temp.next
-        new_temp.next = None
+        new_temp.next = None  # cut list
 
         return new_head
 
