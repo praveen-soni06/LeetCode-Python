@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0086-partition-list) |
+| [0141-linked-list-cycle](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0234-palindrome-linked-list) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0141-linked-list-cycle](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0242-valid-anagram) |
 | [0981-time-based-key-value-store](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0981-time-based-key-value-store) |
 ## Backtracking
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0092-reverse-linked-list-ii) |
+| [0141-linked-list-cycle](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0203-remove-linked-list-elements) |
@@ -261,4 +264,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0124-binary-tree-maximum-path-sum) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
