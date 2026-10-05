@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0410-split-array-largest-sum) |
 ## Two Pointers
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0226-invert-binary-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0538-convert-bst-to-greater-tree) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0100-same-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0226-invert-binary-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0538-convert-bst-to-greater-tree) |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0226-invert-binary-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0538-convert-bst-to-greater-tree) |
@@ -245,4 +249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0023-merge-k-sorted-lists) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
