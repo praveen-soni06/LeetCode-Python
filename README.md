@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0198-house-robber) |
+| [0303-range-sum-query-immutable](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0410-split-array-largest-sum) |
 | [0658-find-k-closest-elements](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0658-find-k-closest-elements) |
 | [0875-koko-eating-bananas](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0875-koko-eating-bananas) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0303-range-sum-query-immutable) |
 | [0981-time-based-key-value-store](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0981-time-based-key-value-store) |
 ## Sliding Window
 |  |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0410-split-array-largest-sum) |
 ## String Matching
 |  |
