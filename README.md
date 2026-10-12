@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0198-house-robber) |
 | [0303-range-sum-query-immutable](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0410-split-array-largest-sum) |
+| [0622-design-circular-queue](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0622-design-circular-queue) |
 | [0658-find-k-closest-elements](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0658-find-k-closest-elements) |
 | [0875-koko-eating-bananas](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0875-koko-eating-bananas) |
 | [1710-maximum-units-on-a-truck](https://github.com/praveen-soni06/LeetCode-Python/tree/master/1710-maximum-units-on-a-truck) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0303-range-sum-query-immutable) |
+| [0622-design-circular-queue](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0622-design-circular-queue) |
 | [0981-time-based-key-value-store](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0981-time-based-key-value-store) |
 ## Sliding Window
 |  |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0234-palindrome-linked-list) |
+| [0622-design-circular-queue](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0622-design-circular-queue) |
 ## Recursion
 |  |
 | ------- |
@@ -284,4 +287,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0141-linked-list-cycle) |
+## Queue
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
