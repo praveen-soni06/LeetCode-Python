@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0144-binary-tree-preorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0538-convert-bst-to-greater-tree) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0144-binary-tree-preorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0538-convert-bst-to-greater-tree) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0100-same-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0617-merge-two-binary-trees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/praveen-soni06/LeetCode-Python/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0144-binary-tree-preorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0538-convert-bst-to-greater-tree) |
