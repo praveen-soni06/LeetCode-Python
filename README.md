@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0053-maximum-subarray) |
+| [0096-unique-binary-search-trees](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0198-house-robber) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -270,10 +273,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0066-plus-one) |
+| [0096-unique-binary-search-trees](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0096-unique-binary-search-trees) |
 | [0171-excel-sheet-column-number](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0171-excel-sheet-column-number) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/praveen-soni06/LeetCode-Python/tree/master/0230-kth-smallest-element-in-a-bst) |
