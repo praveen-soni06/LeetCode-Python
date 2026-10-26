@@ -14,12 +14,11 @@ class Solution:
             current = queue.popleft()
             ans.append(current.val)
 
+            # Add right child first so that the left child is processed last
             if current.right:
                 queue.append(current.right)
             
             if current.left:
                 queue.append(current.left)
 
-            
-
-        return ans[-1]
+        return ans[-1]  # last value is buttom left tree value
